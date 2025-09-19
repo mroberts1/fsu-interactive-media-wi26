@@ -93,12 +93,17 @@ Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology a
 
 ***
 
-Week 4* F 09/26
+*Week 4* F 09/26
 
 **Chatbots: A Brief History**
 
-- Sherry Turkle, selected chs. from *Life on the Screen*
-- ELIZA
+Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkle-life-screen.pdf):
+
+- "The Turing Test"
+- "Julia"
+- "The Loebner Contest and Believable AI"
+- "The New Pygmalions"
+- "The Late 1970s-Mid 1980s: From Resistance to a Lessening of Anxiety"
 
 **Interactions Panel 1**
 
