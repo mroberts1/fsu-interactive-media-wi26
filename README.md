@@ -62,7 +62,7 @@ Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology a
 
 ***
 
-Week 4* F 09/26
+*Week 4* F 09/26
 
 **Chatbots: A Brief History**
 
