@@ -14,3 +14,5 @@ README.html
 header.md
 
 /.luarc.json
+
+**/*.quarto_ipynb
