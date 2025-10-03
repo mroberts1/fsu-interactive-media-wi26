@@ -113,9 +113,16 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 
 **Habitat: Democracy in Cyberspace**
 
+::: {.column-margin}
+
+{{< video https://youtu.be/VVpulhO3jyc width="300" >}}
+
+:::
+
 - Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
 - Dibbell, Julian. “[A Rape in Cyberspace.](-  [https://www.juliandibbell.com/texts/a-rape-in-cyberspace](https://www.juliandibbell.com/texts/a-rape-in-cyberspace))” *The Village Voice*, December 21, 1993.
 - Martin Roberts et al., [*Democracy in Cyberspace*](https://dokoissho.sdf.org/mit/commforum/). MIT Communications Forum, 1994.
+- [How to log on to LambdaMOO](https://faculty.cc.gatech.edu/~asb/teaching/oc/19/lambda.html)
 
 **Interactions Panel 2**
 

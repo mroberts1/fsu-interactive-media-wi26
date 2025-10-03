@@ -42,7 +42,7 @@ format:
     self-contained: false
     grid:
         # sidebar-width: 300px
-        body-width: 700px
+        body-width: 800px
         # margin-width: 200px
         # gutter-width: 2em
     linestretch: 1.5
