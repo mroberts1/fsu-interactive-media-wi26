@@ -22,6 +22,7 @@ website:
         #       file: theory-narrative.qmd
   navbar:
     background: "#235440"
+    search: false
     right:
       - icon: envelope
         aria-label: email
