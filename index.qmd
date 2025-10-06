@@ -13,7 +13,8 @@ COMM 2003\
 Fri 5 Sept--Wed 10 Dec 2025: 14:00-15:15\
 Conlon Hall 341\
 Instructor: Dr. Martin Roberts\
-Office hrs: Mondays 15:00-17:00 ([Zoom](https://zoom.us/j/6720382354?pwd=rwlfRH1vxkiiIUusFa4KlEErO4sjhh.1))</small>\
+Office hrs: Mondays 15:00-17:00 ([Zoom](https://zoom.us/j/6720382354?pwd=rwlfRH1vxkiiIUusFa4KlEErO4sjhh.1))\
+[Blackboard](https://blackboard.fitchburgstate.edu/ultra/courses/_106098_1/cl/outline)</small>\
 <!-- [Syllabus](https://mroberts1.github.io/fsu-interactive-media-fa25)\ -->
 <!-- [GitHub](https://github.com/mroberts1/fsu-interactive-media-fa25)</small>\ -->
 [{{< fa regular envelope >}}](mailto:mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/fsu-interactive-media-fa25/)\
