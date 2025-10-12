@@ -150,7 +150,11 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 
 **Second Lives**
 
-- Thomas Malaby, selected chs. from *Making Virtual Worlds*
+- Thomas Malaby, *Making Virtual Worlds: Linden Labs and Second Life*:
+  - "[The Product: Second Life, Capital, and the Possibility of Failure in a Virtual World](pdf/malaby-second-life-ch1.pdf)" (ch. 1)
+  - "[Knowing the Gamer from the Game](pdf/malaby-second-life-ch3.pdf)" (ch. 3)
+  - "[References](pdf/malaby-second-life-references.pdf)"
+- [Second Life](https://www.secondlife.com/) (try setting up an account!)
 
 **Interactions Panel 4**
 
