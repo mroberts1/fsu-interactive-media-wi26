@@ -53,6 +53,10 @@ This course examines the history and historiography of interactive media. Studen
 - Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster, 1995
 - Michele White. *Touch Screen Theory: Digital Devices and Feelings*. MIT Press, 2022.
 
+## Films
+
+- [*Life 2.0*](https://letterboxd.com/film/life-20/) (Jason Spingarn-Koff, 2010)
+
 ## Assignments / Evaluation
 
 - **Commentary** (Blackboard or Canvas, weekly, 10 required: 100-250-word response to reading/screening assignments): 30%
@@ -149,6 +153,12 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 *Week 7* F 10/17
 
 **Second Lives**
+
+::: {.column-margin}
+
+{{< video  https://youtu.be/StT9NIQ19Qg width="300" >}}
+
+:::
 
 - "[Double Agents](https://www.nytimes.com/slideshow/2007/06/15/magazine/20070617_AVATAR_SLIDESHOW_index.html)" (*New York Times*, 15 June 2007)
 
