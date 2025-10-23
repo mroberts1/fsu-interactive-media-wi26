@@ -16,6 +16,8 @@ website:
           contents:
               - text: W1 Introduction
                 file: w1-intro.qmd
+        - text: Interactions Panels
+          file: groups.qmd
         # - section: "Resources"
         #   contents:
         #     - text: Theory as Narrative
