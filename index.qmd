@@ -144,8 +144,14 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 
 **Second Lives**
 
-::: column-margin
-{{< video https://youtu.be/StT9NIQ19Qg width="300" >}}
+::: {.column-margin}
+
+{{< video https://youtu.be/q3cmCKjPLR8 width="300" >}}
+
+{{< video https://youtu.be/3rezLLMhwSM width="300" >}}
+
+{{< video https://youtu.be/kCXZNA74iIo width="300" >}}
+
 :::
 
 -   "[Double Agents](https://www.nytimes.com/slideshow/2007/06/15/magazine/20070617_AVATAR_SLIDESHOW_index.html)" (*New York Times*, 15 June 2007)
@@ -159,6 +165,7 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 -   [Second Life](https://www.secondlife.com/) (try setting up an account!)
 
 -   [*LIFE 2.0*](https://drive.google.com/file/d/1yGMe4qI1jQ4aGn_5epNQsXPUYku-rC7A/view?usp=sharing) (documentary about *Second Life*)
+-   Julian Dibbell, "[The Life of the Chinese Gold Farmer](pdf/dibbell-gold-farmers.pdf)" (*New York Times*, 17 June 2007)
 
 ------------------------------------------------------------------------
 
