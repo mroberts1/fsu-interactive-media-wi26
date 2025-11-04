@@ -12,7 +12,7 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 
 :::
 
-**Interactions Panel 1**
+**Interactions Panel**
 
 - Cyrus Mullen
 - Mason Mitchell
@@ -30,7 +30,7 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 
 :::
 
-**Interactions Panel 2**
+**Interactions Panel**
 
 - Aiko Mccarthy
 - Jonathon Mcconley
@@ -48,11 +48,11 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 
 :::
 
-**Interactions Panel 3**
+**Interactions Panel**
 
-- Owen Gilbert
-- Jaden Malagodi
-- Peyton McGrath
+- Owen Gilbert?
+- Jaden Malagodi?
+- Peyton McGrath?
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ Robert Pfaller, selected chs. from *Interpassivity*
 
 :::
 
-**Interactions Panel 4**
+**Interactions Panel**
 
 - Rayyan Noor
 - Guilherme Oliveira

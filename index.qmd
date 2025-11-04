@@ -185,9 +185,21 @@ Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkl
 
 *Week 9* F 10/31
 
-**Infinite Database**
+**Hyperrealism vs. Playability**
 
--   *Cyberpunk 2077*
+::: {.column-margin}
+
+{{< video https://youtu.be/a15V87a_s2U width="300" >}}
+
+{{< video https://youtu.be/xEChtsKTA2A width="300" >}}
+
+:::
+
+- Stephen Johnson, "[Watch how video games are approaching perfect photorealism](https://www.freethink.com/hard-tech/unreal-engine-5-photorealism)" (*Freethink*, 30 September 2023)
+- "[The Truth About the Modded *Cyberpunk 2077* Hyperrealism Fad](https://medium.com/@moddedgames/the-truth-about-the-cyberpunk-2077-hyperrealism-fad-b6efda43276c)" (*Medium*, 19 April 2024)
+- "[The Ultimate Cyberpunk 2077 PC Modding Guide: Looks, Performance & Customization](https://medium.com/@moddedgames/the-ultimate-cyberpunk-2077-pc-modding-guide-looks-performance-customization-bf21e6ea8581)" (*Medium*, 19 April 2024)
+- Alexandra Sakellariou, "[RDR2 Prioritizes Realism At The Expense of Playability](https://screenrant.com/red-dead-redemption-2-realism-extreme-boring-controls/)" (*Screen Rant*, 7 September 2020)
+- [*Cyberpunk 2077* YouTube playlist](https://youtube.com/playlist?list=PLKJL7wxYKW3MbT-x6mf5Yln8a7LUnS4jm&si=S5dfWP2b7tEXOTu6)
 
 **Interactions Panel 3**
 
