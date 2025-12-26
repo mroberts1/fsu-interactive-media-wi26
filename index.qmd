@@ -40,11 +40,18 @@ Instructor: Dr. Martin Roberts\
 
 This course examines the history and historiography of interactive media. Students will explore what interactivity has been, is and might become. This class provides a wide-ranging history of the uses, effects and design of interactive media from their beginnings to the present. Students will study the history of the functions and forms of interactive systems thereby better equipping them as users as well as potential designers of interactive media. This course is required for majors and for game design majors. ART. Prerequisite(s): ENGL 1100
 
-------------------------------------------------------------------------
-
 ## Objectives
 
-------------------------------------------------------------------------
+After taking the course, students will have acquired a comprehensive understanding of the origins and history of interactive media, including:
+
+- the concept of interactivity itself and related concepts
+- early mainframe-based interactive games
+- interactive fiction and hypertext
+- the origin and history of chatbots, from the Turing Test  to today's AI agents
+- text-based virtual communities on bulletin-board systems (BBS) and the internet
+- graphics-based worlds and games
+- immersive environments as social spaces
+- avatars as a representation of the online self
 
 ## Sources
 
@@ -53,14 +60,10 @@ This course examines the history and historiography of interactive media. Studen
 -   Nick Montfort. *Twisty Little Passages: An Approach to Interactive Fiction.* MIT Press, 2005.
 -   Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster, 1995.
 
-------------------------------------------------------------------------
-
 ## Films
 
 -   [*LIFE 2.0*](https://drive.google.com/file/d/1yGMe4qI1jQ4aGn_5epNQsXPUYku-rC7A/view?usp=sharing) (Jason Spingarn-Koff, 2010)
 -   [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (Joe Hunting, 2022)
-
-------------------------------------------------------------------------
 
 ## People
 
@@ -110,8 +113,6 @@ An academic critical essay analyzing and responding in detail to at least one of
 **Special Topic Paper** (1,000 words / 4 pages double-spaced; due Monday 19 January): 25%\
 
 A short-format research paper analyzing any of the topics covered in the course in greater depth, with bibliography.
-
-------------------------------------------------------------------------
 
 ## Assignment Schedule & Deadlines
 
