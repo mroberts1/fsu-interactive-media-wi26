@@ -44,14 +44,15 @@ This course examines the history and historiography of interactive media. Studen
 
 After taking the course, students will have acquired a comprehensive understanding of the origins and history of interactive media, including:
 
-- the concept of interactivity itself and related concepts
-- early mainframe-based interactive games
-- interactive fiction and hypertext
-- the origin and history of chatbots, from the Turing Test  to today's AI agents
-- text-based virtual communities on bulletin-board systems (BBS) and the internet
-- graphics-based worlds and games
-- immersive environments as social spaces
-- avatars as a representation of the online self
+-   the concept of interactivity itself and related concepts
+-   early mainframe-based interactive games
+-   interactive fiction and hypertext
+-   the origin and history of chatbots, from the Turing Test to today's AI agents
+-   text-based virtual communities on bulletin-board systems (BBS) and the internet
+-   graphics-based worlds and games
+-   immersive environments as social spaces
+-   avatars as a representation of the online self
+-   contemporary nostalgia for the early internet and web
 
 ## Sources
 
@@ -69,17 +70,17 @@ After taking the course, students will have acquired a comprehensive understandi
 
 -   [Stacey Horn](https://stacyhorn.com/)
 
-***
+------------------------------------------------------------------------
 
-:::::: {.solutionbox}
-:::: {.solutionbox-header}
-::: {.solutionbox-icon}
+:::::: solutionbox
+:::: solutionbox-header
+::: solutionbox-icon
 :::
+
 Class Format
 ::::
 
-::: {.solutionbox-body}
-
+::: solutionbox-body
 1.  The course lasts three weeks.
 
 2.  Each week begins on a **Friday** (12/26/25, 01/02/26, 01/09/26) and runs until the following **Thursday**.
@@ -121,17 +122,15 @@ A short-format research paper analyzing any of the topics covered in the course 
 Friday 26 December Class begins
 
 Thursday 2 January\
-**DEADLINE** 3 Response Posts due on Discord due by end of week 1 (Thur 1 Jan).\ 
-**DEADLINE** Commentary Paper #1\*\* (submit on Blackboard)
+**DEADLINE** 3 Response Posts due on Discord due by end of week 1 (Thur 1 Jan).  **DEADLINE** Commentary Paper #1\*\* (submit on Blackboard)
 
 *Week 2* F 01/09/26
 
-**DEADLINE** 3 Response Posts due on Discord by end of week 2 (Thur 8 Jan).\ 
-**DEADLINE** Commentary Paper #2\*\* (submit on Blackboard)
+**DEADLINE** 3 Response Posts due on Discord by end of week 2 (Thur 8 Jan).  **DEADLINE** Commentary Paper #2\*\* (submit on Blackboard)
 
 *Week 3* F 01/09/26
 
-**DEADLINE** 3 Response Posts due on Discord by end of week 3 (Thur 15 Jan). \
+**DEADLINE** 3 Response Posts due on Discord by end of week 3 (Thur 15 Jan).\
 **DEADLINE: Commentary Paper #3** (submit on Blackboard)
 
 *Week 4* M 01/19/26
@@ -142,44 +141,48 @@ Thursday 2 January\
 
 ## Reading Assignment Schedule
 
-**Week 1: Turing Test**
+**Week 1: Interactive Fictions**
 
 Friday 26 December 2025:
 
 **Introduction: Graceful Degradation**
 
-- Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology at the Close of the Mechanical Age*) (included in Agenda post)
+-   Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology at the Close of the Mechanical Age*) (included in Agenda post)
 
 Monday 29 December 2025:
 
 Nick Montfort, excerpts from *Twisty Little Passages*:
 
-- "[Adventure and Its Ancestors](pdf/nick-montfort-adventure.pdf)" (ch. 3)
-- "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (ch. 4)
+-   "[Adventure and Its Ancestors](pdf/nick-montfort-adventure.pdf)" (ch. 3)
 
-- Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “[Zork: A Computerized Fantasy Simulation Game](https://mud.co.uk/richard/zork.htm)” (*IEEE Computer*, April 1979, pp. 51–59)
-- Watch: [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch) (Netflix, 2018)
+-   "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (ch. 4)
+
+-   Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “[Zork: A Computerized Fantasy Simulation Game](https://mud.co.uk/richard/zork.htm)” (*IEEE Computer*, April 1979, pp. 51–59)
+
+-   Watch: [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch) (Netflix, 2018)
 
 Wednesday 31 December 2025:
 
-- Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkle-life-screen.pdf):
-  - "The Turing Test"
-  - "Julia"
-  - "The Loebner Contest and Believable AI"
-  - "The New Pygmalions"
-  - "The Late 1970s-Mid 1980s: From Resistance to a Lessening of Anxiety"
+**Chatbots**
+
+-   Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkle-life-screen.pdf):
+    -   "The Turing Test"
+    -   "Julia"
+    -   "The Loebner Contest and Believable AI"
+    -   "The New Pygmalions"
+    -   "The Late 1970s-Mid 1980s: From Resistance to a Lessening of Anxiety"
 
 ------------------------------------------------------------------------
 
 **Week 2: Virtual Communities**
 
-::: {.column-margin}
-
+::: column-margin
 {{< video https://youtu.be/VVpulhO3jyc width="300" >}}
-
 :::
 
 Friday 2 January 2026:
+
+**Lurking**
 
 Joanne McNeil, [*Lurking: How A Person Became A User*](https://us.macmillan.com/books/9781250785756/lurking):
 
@@ -194,17 +197,19 @@ Joanne McNeil, [*Lurking: How A Person Became A User*](https://us.macmillan.com/
 
 Monday 5 January 2026:
 
-::: {.column-margin}
+**Habitat**
 
+::: column-margin
 {{< video https://youtu.be/EWX5B6cD4_4 width="300" >}}
 
 {{< video https://youtu.be/6dzvtzamVNw width="300" >}}
-
 :::
 
 -   Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
 
 Wednesday 8 January 2026:
+
+**MYST**
 
 -   [Myst](https://cyan.com/games/myst/)
 -   [Play online](https://mystonline.com/en/)
@@ -215,15 +220,19 @@ Wednesday 8 January 2026:
 
 Friday 9 January 2026
 
+**Second Life**
+
 -   "[Double Agents](https://www.nytimes.com/slideshow/2007/06/15/magazine/20070617_AVATAR_SLIDESHOW_index.html)" (*New York Times*, 15 June 2007)
 -   Thomas Malaby, *Making Virtual Worlds: Linden Labs and Second Life*:
-    - "[The Product: Second Life, Capital, and the Possibility of Failure in a Virtual World](pdf/malaby-second-life-ch1.pdf)" (ch. 1)
-    - "[Knowing the Gamer from the Game](pdf/malaby-second-life-ch3.pdf)" (ch. 3)
-    - "[References](pdf/malaby-second-life-references.pdf)"
+    -   "[The Product: Second Life, Capital, and the Possibility of Failure in a Virtual World](pdf/malaby-second-life-ch1.pdf)" (ch. 1)
+    -   "[Knowing the Gamer from the Game](pdf/malaby-second-life-ch3.pdf)" (ch. 3)
+    -   "[References](pdf/malaby-second-life-references.pdf)"
 -   [Second Life](https://www.secondlife.com/) (try setting up an account!)
 -   Watch: [*LIFE 2.0*](https://drive.google.com/file/d/1yGMe4qI1jQ4aGn_5epNQsXPUYku-rC7A/view?usp=sharing) (documentary about *Second Life*)
 
 Monday 12 January 2026
+
+**VR Chat**
 
 -   Watch: [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (documentary, Joe Hunting, 2022)
 -   [Hyperallergic article](https://hyperallergic.com/749447/we-met-in-virtual-reality-review/)
@@ -231,13 +240,23 @@ Monday 12 January 2026
 
 Wednesday 14 January 2026
 
-- [*Cyberpunk 2077* YouTube playlist](https://youtube.com/playlist?list=PLKJL7wxYKW3MbT-x6mf5Yln8a7LUnS4jm&si=S5dfWP2b7tEXOTu6)
+**Stranger Things**
+
+-   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
+
+-   Yancey Strickler, "[The Dark Forest Theory of the Internet](yancey-strickler-dark-forest-pt1.pdf)", "[Beyond The Dark Forest Theory of the Internet](yancey-strickler-medium-pt2.pdf)" (2019)
+
+[neocities](https://neocities.org/)
+
+::: column-margin
+{{< video https://youtu.be/2LzyRcLJdlg >}}
+:::
 
 Friday 16 January 2026
 
 Class ends
 
-***
+------------------------------------------------------------------------
 
 ## Policies
 
