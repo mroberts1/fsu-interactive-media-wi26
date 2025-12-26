@@ -243,13 +243,14 @@ Wednesday 14 January 2026
 **Stranger Things**
 
 -   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
-
 -   Yancey Strickler, "[The Dark Forest Theory of the Internet](yancey-strickler-dark-forest-pt1.pdf)", "[Beyond The Dark Forest Theory of the Internet](yancey-strickler-medium-pt2.pdf)" (2019)
 
 [neocities](https://neocities.org/)
 
-::: column-margin
+::: {.column-margin}
+
 {{< video https://youtu.be/2LzyRcLJdlg >}}
+
 :::
 
 Friday 16 January 2026
