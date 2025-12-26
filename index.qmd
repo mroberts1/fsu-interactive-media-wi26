@@ -119,25 +119,32 @@ A short-format research paper analyzing any of the topics covered in the course 
 
 *Week 1*
 
-Friday 26 December Class begins
+**Friday 26 December**
 
-Thursday 2 January\
-**DEADLINE** 3 Response Posts due on Discord due by end of week 1 (Thur 1 Jan).  **DEADLINE** Commentary Paper #1\*\* (submit on Blackboard)
+Class begins
 
-*Week 2* F 01/09/26
+**Friday 2 January 2026**
 
-**DEADLINE** 3 Response Posts due on Discord by end of week 2 (Thur 8 Jan).  **DEADLINE** Commentary Paper #2\*\* (submit on Blackboard)
+3 **Response Posts** due on Discord due at end of week 1\
+**Commentary Paper #1** (submit on Blackboard)
 
-*Week 3* F 01/09/26
+*Week 2*
 
-**DEADLINE** 3 Response Posts due on Discord by end of week 3 (Thur 15 Jan).\
-**DEADLINE: Commentary Paper #3** (submit on Blackboard)
+**Friday 9 January 2026**
 
-*Week 4* M 01/19/26
+3 **Response Posts** due on Discord due at end of week 2\
+**Commentary Paper #2** (submit on Blackboard)
 
-**DEADLINE: Special Topics Paper** (submitted on Blackboard)
+*Week 3*
 
-------------------------------------------------------------------------
+**Friday 16 January 2026**
+
+3 **Response Posts** due on Discord at end of week 3\
+**Commentary Paper #3** (submit on Blackboard)
+
+**Monday 19 January 2026**
+
+**Special Topics Paper** (submit on Blackboard)
 
 ## Reading Assignment Schedule
 
@@ -244,13 +251,10 @@ Wednesday 14 January 2026
 
 -   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
 -   Yancey Strickler, "[The Dark Forest Theory of the Internet](yancey-strickler-dark-forest-pt1.pdf)", "[Beyond The Dark Forest Theory of the Internet](yancey-strickler-medium-pt2.pdf)" (2019)
+-   [neocities](https://neocities.org/)
 
-[neocities](https://neocities.org/)
-
-::: {.column-margin}
-
+::: column-margin
 {{< video https://youtu.be/2LzyRcLJdlg >}}
-
 :::
 
 Friday 16 January 2026
