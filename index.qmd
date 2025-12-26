@@ -6,14 +6,15 @@ title: 'History of Interactive Media & Games'
 ::: {layout="[[50, 50]]"}
 [![](img/polyducks.gif)](https://polyducks.co.uk/archive/)
 
-<small>[Fitchburg State University](https://fitchburgstate.edu)\
+<small>COMM 2003\
+[Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
-COMM 2003\
 3 credits\
-Fri 5 Sept--Wed 10 Dec 2025: 14:00-15:15\
-Conlon Hall 341\
+Online Accelerated\
+Winter Session\
+Fri 26 Dec 2025--Fri 16 Jan 2026 (3 weeks)\
 Instructor: Dr. Martin Roberts\
-Office hrs: Mondays 15:00-17:00 ([Zoom](https://zoom.us/j/6720382354?pwd=rwlfRH1vxkiiIUusFa4KlEErO4sjhh.1))\
+Office hrs: TBA ([Zoom](https://zoom.us/j/6720382354?pwd=rwlfRH1vxkiiIUusFa4KlEErO4sjhh.1))\
 [Blackboard](https://blackboard.fitchburgstate.edu/ultra/courses/_106098_1/cl/outline)</small>\
 <!-- [Discord](https://discord.gg/DNfUzQdP)\ --> <!-- [YouTube](https://youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91&si=PwYfFjJ38arD1SUY)</small> -->
 :::
@@ -39,230 +40,207 @@ Instructor: Dr. Martin Roberts\
 
 This course examines the history and historiography of interactive media. Students will explore what interactivity has been, is and might become. This class provides a wide-ranging history of the uses, effects and design of interactive media from their beginnings to the present. Students will study the history of the functions and forms of interactive systems thereby better equipping them as users as well as potential designers of interactive media. This course is required for majors and for game design majors. ART. Prerequisite(s): ENGL 1100
 
+------------------------------------------------------------------------
+
 ## Objectives
+
+------------------------------------------------------------------------
 
 ## Sources
 
--   Ian Bogost and Nick Montfort. *Racing the Beam: The Atari Video Computer System*. MIT Press, 2009.
--   Jesper Juul. *Too Much Fun: The Five Lives of the Commodore 64 Computer*. MIT Press, 2024.
 -   Thomas M. Malaby. *Making Virtual Worlds: Linden Lab and Second Life*. Cornell University Press, 2009.
+-   [Joanne McNeil](https://joannemcneil.com/). [*Lurking: How A Person Became A User*](https://us.macmillan.com/books/9781250785756/lurking) (New York: Farrar, Strauss, and Giroux, 2020).
 -   Nick Montfort. *Twisty Little Passages: An Approach to Interactive Fiction.* MIT Press, 2005.
--   Robert Pfaller. *Interpassivity: The Aesthetics of Delegated Enjoyment*. Edinburgh University Press, 2017.
--   Allucquère Rosanne Stone. *The War of Desire and Technology at the Close of the Mechanical Age*. MIT Press, 1995.
--   Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster, 1995
--   Michele White. *Touch Screen Theory: Digital Devices and Feelings*. MIT Press, 2022.
+-   Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster, 1995.
+
+------------------------------------------------------------------------
 
 ## Films
 
 -   [*LIFE 2.0*](https://drive.google.com/file/d/1yGMe4qI1jQ4aGn_5epNQsXPUYku-rC7A/view?usp=sharing) (Jason Spingarn-Koff, 2010)
+-   [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (Joe Hunting, 2022)
+
+------------------------------------------------------------------------
+
+## People
+
+-   [Stacey Horn](https://stacyhorn.com/)
+
+***
+
+:::::: {.solutionbox}
+:::: {.solutionbox-header}
+::: {.solutionbox-icon}
+:::
+Class Format
+::::
+
+::: {.solutionbox-body}
+
+1.  The course lasts three weeks.
+
+2.  Each week begins on a **Friday** (12/26/25, 01/02/26, 01/09/26) and runs until the following **Thursday**.
+
+3.  Each week has three sections, which start on Friday, Monday, and Wednesday.
+
+4.  Each of these sections has its own reading assignments (or sometimes screening).
+
+5.  Every Friday, Monday, and Wednesday, I will post a short Agenda item on Blackboard and the web syllabus. This is meant to provide a starting point for discussion of the reading assignments for the section in question.
+
+6.  The reading schedule is intensive. Be sure to complete the readings for any section *before* the section that follows it:
+
+-   Readings listed under Friday need to be completed by the following Monday
+-   Readings listed under Monday need to be completed by the following Wednesday
+-   Readings listed under Wednesday need to be completed by the following Friday
+
+It's important to keep up, otherwise you will quickly fall behind.
+:::
+::::::
 
 ## Assignments / Evaluation
 
--   **Commentary** (Blackboard or Canvas, weekly, 10 required: 100-250-word response to reading/screening assignments): 30%
--   **Interactions Panel** (in-class, from week 4; 2-3 students, 15-20 minutes, with accompanying materials, joint grade): 15%
--   **Interactions Analysis Paper** (1,000 words / 4 pages double-spaced; due one week after in-class presentation): 20%
--   **Special Interest Group (SIG) Paper** (open topic) (1,000 words, 4 pages double-spaced, not including bibliography, letter grade): 20%
--   **Special Interest Group (SIG) Presentation** (in-class): 15%
+**Response post** (Blackboard or Canvas, weekly, 9 required)
 
-## Schedule
+100-250-word response to reading/screening assignments): 30% Weekly assignments consist of a **minimum** of 3 short contributions to the discussion (100-200 words) each week, posted in the relevant forums on the course Discord server, responding to reading (or screening) assignments and/or the instructor's Agenda items. (Active participation and responding to other people's posts is encouraged and will gain credit for this assignment.
 
-*Week 1* F 09/05
+**Commentary Paper** (1,000 words / 4 pages double-spaced; due Friday of each week of the course): 45%\
 
-Introduction: Graceful Degradation
+An academic critical essay analyzing and responding in detail to at least one of the reading assignments for the week in question.
 
-Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology at the Close of the Mechanical Age*)
+**Special Topic Paper** (1,000 words / 4 pages double-spaced; due Monday 19 January): 25%\
+
+A short-format research paper analyzing any of the topics covered in the course in greater depth, with bibliography.
 
 ------------------------------------------------------------------------
 
-*Week 2* F 09/12
+## Assignment Schedule & Deadlines
 
-**Adventure Games**
+*Week 1*
+
+Friday 26 December Class begins
+
+Thursday 2 January\
+**DEADLINE** 3 Response Posts due on Discord due by end of week 1 (Thur 1 Jan).\ 
+**DEADLINE** Commentary Paper #1\*\* (submit on Blackboard)
+
+*Week 2* F 01/09/26
+
+**DEADLINE** 3 Response Posts due on Discord by end of week 2 (Thur 8 Jan).\ 
+**DEADLINE** Commentary Paper #2\*\* (submit on Blackboard)
+
+*Week 3* F 01/09/26
+
+**DEADLINE** 3 Response Posts due on Discord by end of week 3 (Thur 15 Jan). \
+**DEADLINE: Commentary Paper #3** (submit on Blackboard)
+
+*Week 4* M 01/19/26
+
+**DEADLINE: Special Topics Paper** (submitted on Blackboard)
+
+------------------------------------------------------------------------
+
+## Reading Assignment Schedule
+
+**Week 1: Turing Test**
+
+Friday 26 December 2025:
+
+**Introduction: Graceful Degradation**
+
+- Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology at the Close of the Mechanical Age*) (included in Agenda post)
+
+Monday 29 December 2025:
 
 -   Nick Montfort, "[Adventure and Its Ancestors](pdf/nick-montfort-adventure.pdf)" (*Twisty Little Passages*, ch. 3)
+-   Nick Montfort, "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (*Twisty Little Passages*, ch. 4)
 -   Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “[Zork: A Computerized Fantasy Simulation Game](https://mud.co.uk/richard/zork.htm)” (*IEEE Computer*, April 1979, pp. 51–59)
 
-------------------------------------------------------------------------
+-  Watch: [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch) (Netflix, 2018)
 
-*Week 3* F 09/19
+Wednesday 31 December 2025:
 
-**Hyperfiction**
-
--   Nick Montfort, "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (*Twisty Little Passages*, ch. 4)
--   TWINE
-
-------------------------------------------------------------------------
-
-*Week 4* F 09/26
-
-**Chatbots: A Brief History**
-
-Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkle-life-screen.pdf):
-
--   "The Turing Test"
--   "Julia"
--   "The Loebner Contest and Believable AI"
--   "The New Pygmalions"
--   "The Late 1970s-Mid 1980s: From Resistance to a Lessening of Anxiety"
-
-**Interactions Panel 1**
+- Sherry Turkle, excerpts from chs. 3-4 of [*Life on the Screen*](pdf/sherry-turkle-life-screen.pdf):
+  - "The Turing Test"
+  - "Julia"
+  - "The Loebner Contest and Believable AI"
+  - "The New Pygmalions"
+  - "The Late 1970s-Mid 1980s: From Resistance to a Lessening of Anxiety"
 
 ------------------------------------------------------------------------
 
-*Week 5* F 10/03
+**Week 2: Virtual Communities**
 
-**Habitat: Democracy in Cyberspace**
+::: {.column-margin}
 
-::: column-margin
 {{< video https://youtu.be/VVpulhO3jyc width="300" >}}
+
 :::
 
--   Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
--   Dibbell, Julian. “[A Rape in Cyberspace.](https://www.juliandibbell.com/texts/a-rape-in-cyberspace)” *The Village Voice*, December 21, 1993.
--   Martin Roberts et al., [*Democracy in Cyberspace*](https://dokoissho.sdf.org/mit/commforum/). MIT Communications Forum, 1994.
--   [How to log on to LambdaMOO](https://faculty.cc.gatech.edu/~asb/teaching/oc/19/lambda.html)
+Friday 2 January 2026:
 
-------------------------------------------------------------------------
+Joanne McNeil, [*Lurking: How A Person Became A User*](https://us.macmillan.com/books/9781250785756/lurking):
 
-*Week 6* F 10/10
+<!-- :::{.column-margin} -->
 
-**Myst**
+<!-- [![](img/mcneil-lurking-cover.jpeg){.lightbox width=200}](https://us.macmillan.com/books/9781250785756/lurking) -->
 
-::: column-margin
+<!-- ::: -->
+
+-   [Introduction](https://canvas.emerson.edu/courses/2079558/files/172506575?wrap=1 "Lurking_ Intro.pdf")
+-   [Chapter 2](https://canvas.emerson.edu/courses/2079558/files/172506597?wrap=1 "Lurking_ Chapter2.pdf")
+
+Monday 5 January 2026:
+
+::: {.column-margin}
+
 {{< video https://youtu.be/EWX5B6cD4_4 width="300" >}}
 
 {{< video https://youtu.be/6dzvtzamVNw width="300" >}}
 
-<!-- {{< video width="300" >}} -->
 :::
+
+-   Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
+
+Wednesday 8 January 2026:
 
 -   [Myst](https://cyan.com/games/myst/)
 -   [Play online](https://mystonline.com/en/)
 
 ------------------------------------------------------------------------
 
-*Week 7* F 10/17
+**Week 3: Avatars**
 
-**Second Lives**
-
-::: {.column-margin}
-
-{{< video https://youtu.be/q3cmCKjPLR8 width="300" >}}
-
-{{< video https://youtu.be/3rezLLMhwSM width="300" >}}
-
-{{< video https://youtu.be/kCXZNA74iIo width="300" >}}
-
-:::
+Friday 9 January 2026
 
 -   "[Double Agents](https://www.nytimes.com/slideshow/2007/06/15/magazine/20070617_AVATAR_SLIDESHOW_index.html)" (*New York Times*, 15 June 2007)
-
 -   Thomas Malaby, *Making Virtual Worlds: Linden Labs and Second Life*:
-
-    -   "[The Product: Second Life, Capital, and the Possibility of Failure in a Virtual World](pdf/malaby-second-life-ch1.pdf)" (ch. 1)
-    -   "[Knowing the Gamer from the Game](pdf/malaby-second-life-ch3.pdf)" (ch. 3)
-    -   "[References](pdf/malaby-second-life-references.pdf)"
-
+    - "[The Product: Second Life, Capital, and the Possibility of Failure in a Virtual World](pdf/malaby-second-life-ch1.pdf)" (ch. 1)
+    - "[Knowing the Gamer from the Game](pdf/malaby-second-life-ch3.pdf)" (ch. 3)
+    - "[References](pdf/malaby-second-life-references.pdf)"
 -   [Second Life](https://www.secondlife.com/) (try setting up an account!)
+-   Watch: [*LIFE 2.0*](https://drive.google.com/file/d/1yGMe4qI1jQ4aGn_5epNQsXPUYku-rC7A/view?usp=sharing) (documentary about *Second Life*)
 
--   [*LIFE 2.0*](https://drive.google.com/file/d/1yGMe4qI1jQ4aGn_5epNQsXPUYku-rC7A/view?usp=sharing) (documentary about *Second Life*)
--   Julian Dibbell, "[The Life of the Chinese Gold Farmer](pdf/dibbell-gold-farmers.pdf)" (*New York Times*, 17 June 2007)
+Monday 12 January 2026
 
-------------------------------------------------------------------------
+-   Watch: [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (documentary, Joe Hunting, 2022)
+-   [Hyperallergic article](https://hyperallergic.com/749447/we-met-in-virtual-reality-review/)
+-   [Hunting Interview](https://immerse.news/as-organic-as-a-real-camera-an-interview-with-joe-hunting-4fd4ea28845b)
 
-*Week 8* F 10/24
+Wednesday 14 January 2026
 
-**VRChat**
-
--   Screening: [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (documentary, Joe Hunting, 2022)
-
-- [Hyperallergic article ](https://hyperallergic.com/749447/we-met-in-virtual-reality-review/)
-
-- [Hunting Interview](https://immerse.news/as-organic-as-a-real-camera-an-interview-with-joe-hunting-4fd4ea28845b)
-
-**Interactions Panel 2**
-
-------------------------------------------------------------------------
-
-*Week 9* F 10/31
-
-**Hyperrealism vs. Playability**
-
-::: {.column-margin}
-
-{{< video https://youtu.be/a15V87a_s2U width="300" >}}
-
-{{< video https://youtu.be/xEChtsKTA2A width="300" >}}
-
-:::
-
-- Stephen Johnson, "[Watch how video games are approaching perfect photorealism](https://www.freethink.com/hard-tech/unreal-engine-5-photorealism)" (*Freethink*, 30 September 2023)
-- "[The Truth About the Modded *Cyberpunk 2077* Hyperrealism Fad](https://medium.com/@moddedgames/the-truth-about-the-cyberpunk-2077-hyperrealism-fad-b6efda43276c)" (*Medium*, 19 April 2024)
-- "[The Ultimate Cyberpunk 2077 PC Modding Guide: Looks, Performance & Customization](https://medium.com/@moddedgames/the-ultimate-cyberpunk-2077-pc-modding-guide-looks-performance-customization-bf21e6ea8581)" (*Medium*, 19 April 2024)
-- Alexandra Sakellariou, "[RDR2 Prioritizes Realism At The Expense of Playability](https://screenrant.com/red-dead-redemption-2-realism-extreme-boring-controls/)" (*Screen Rant*, 7 September 2020)
-- [*Cyberpunk 2077*](https://www.nexusmods.com/games/cyberpunk2077) (*Nexus Mods*)
 - [*Cyberpunk 2077* YouTube playlist](https://youtube.com/playlist?list=PLKJL7wxYKW3MbT-x6mf5Yln8a7LUnS4jm&si=S5dfWP2b7tEXOTu6)
 
-**Interactions Panel 3**
+Friday 16 January 2026
 
-------------------------------------------------------------------------
+Class ends
 
-*Week 10* F 11/07
-
-**Interpassive Aggressive**
-
-Robert Pfaller, "[Introduction: Interpassivity Today](pdf/interpassivity-intro.pdf)"
-
-**Interactions Panel 4**
-
-------------------------------------------------------------------------
-
-*Week 11* F 11/14
-
-**Tap, Pinch, Swipe: Touchscreens**
-
-Michele White, selected chs. from *Touch Screen Theory*
-
-**Interactions Panel 5**
-
-------------------------------------------------------------------------
-
-*Week 12* F 11/21
-
-**Audioreactive: Generative Interactivity**
-
-DayDream and other generative tools
-
-**Interactions Panel 6**
-
-------------------------------------------------------------------------
-
-*Week 13* F 11/28
-
-NO CLASS (Thanksgiving)
-
-------------------------------------------------------------------------
-
-*Week 14* F 12/05
-
-SIG Presentations
-
-**DEADLINE: Special Interest Group (SIG) presentations**
-
-------------------------------------------------------------------------
-
-*Week 15*
-
-W 12/10 Last day of classes\
-R 12/11 Reading Day\
-F 12/12-18 Exam period
-
-------------------------------------------------------------------------
+***
 
 ## Policies
 
 *Late Policy*
 
-Assignments that are late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
+Late assignments will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
 
 ------------------------------------------------------------------------
 

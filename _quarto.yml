@@ -5,19 +5,17 @@ project:
 
 website:
   title: "    "  
-  sidebar:
-    search: false
-    style: "floating"
-    collapse-level: 0
-    contents:
-        - text: Home
-          file: index.qmd 
-        - section: "Agendas"
-          contents:
-              - text: W1 Introduction
-                file: w1-intro.qmd
-        - text: Interactions Panels
-          file: groups.qmd
+  # sidebar:
+  #   search: false
+  #   style: "floating"
+  #   collapse-level: 0
+  #   contents:
+  #       - text: Home
+  #         file: index.qmd 
+  #       - section: "Agendas"
+  #         contents:
+  #             - text: W1 Introduction
+  #               file: w1-intro.qmd
         # - section: "Resources"
         #   contents:
         #     - text: Theory as Narrative
@@ -34,7 +32,7 @@ website:
         href: https://merveilles.town/@dokoissho
       - icon: github
         aria-label: github
-        href: https://github.com/mroberts1/fsu-interactive-media-fa25
+        href: https://github.com/mroberts1/fsu-interactive-media-wi26
       # - icon: twitter
       #   aria-label: twitter
       #   href: https://twitter.com/mroberts_fsu
