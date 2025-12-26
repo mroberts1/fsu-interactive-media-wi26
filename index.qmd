@@ -152,11 +152,13 @@ Friday 26 December 2025:
 
 Monday 29 December 2025:
 
--   Nick Montfort, "[Adventure and Its Ancestors](pdf/nick-montfort-adventure.pdf)" (*Twisty Little Passages*, ch. 3)
--   Nick Montfort, "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (*Twisty Little Passages*, ch. 4)
--   Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “[Zork: A Computerized Fantasy Simulation Game](https://mud.co.uk/richard/zork.htm)” (*IEEE Computer*, April 1979, pp. 51–59)
+Nick Montfort, excerpts from *Twisty Little Passages*:
 
--  Watch: [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch) (Netflix, 2018)
+- "[Adventure and Its Ancestors](pdf/nick-montfort-adventure.pdf)" (ch. 3)
+- "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (ch. 4)
+
+- Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “[Zork: A Computerized Fantasy Simulation Game](https://mud.co.uk/richard/zork.htm)” (*IEEE Computer*, April 1979, pp. 51–59)
+- Watch: [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch) (Netflix, 2018)
 
 Wednesday 31 December 2025:
 
