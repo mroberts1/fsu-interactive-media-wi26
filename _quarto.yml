@@ -5,17 +5,17 @@ project:
 
 website:
   title: "    "  
-  # sidebar:
-  #   search: false
-  #   style: "floating"
-  #   collapse-level: 0
-  #   contents:
-  #       - text: Home
-  #         file: index.qmd 
-  #       - section: "Agendas"
-  #         contents:
-  #             - text: W1 Introduction
-  #               file: w1-intro.qmd
+  sidebar:
+    search: false
+    style: "floating"
+    collapse-level: 0
+    contents:
+        - text: Home
+          file: index.qmd
+        - section: "Agendas"
+          contents:
+              - text: W1 Interactive Fictions
+                file: w1-interactive-fictions.qmd
         # - section: "Resources"
         #   contents:
         #     - text: Theory as Narrative
