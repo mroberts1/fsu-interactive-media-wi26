@@ -109,7 +109,14 @@ It's important to keep up, otherwise you will quickly fall behind.
 
 **Response post** (Blackboard or Canvas, weekly, 9 required)
 
-100-250-word response to reading/screening assignments): 30% Weekly assignments consist of a **minimum** of 3 short contributions to the discussion (100-200 words) each week, posted in the relevant forums on the course Discord server, responding to reading (or screening) assignments and/or the instructor's Agenda items. (Active participation and responding to other people's posts is encouraged and will gain credit for this assignment.
+::: {.column-margin}
+
+<iframe src="https://discord.com/widget?id=1455209472925499511&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+:::
+
+100-250-word response to reading/screening assignments): 30% \
+Weekly assignments consist of a **minimum** of 3 short contributions to the discussion (100-200 words) each week, posted in the relevant forums on the course Discord server, responding to reading (or screening) assignments and/or the instructor's Agenda items. Active participation and responding to other people's posts is encouraged and will gain credit for this assignment.
 
 **Commentary Paper** (1,000 words / 4 pages double-spaced; due Friday of each week of the course): 45%\
 
