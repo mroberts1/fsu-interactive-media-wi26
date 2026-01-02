@@ -8,7 +8,7 @@ website:
   sidebar:
     search: false
     style: "floating"
-    collapse-level: 0
+    collapse-level: 1
     contents:
         - text: Home
           file: index.qmd
@@ -16,10 +16,10 @@ website:
           contents:
               - text: W1 Interactive Fictions
                 file: w1-interactive-fictions.qmd
-        # - section: "Resources"
-        #   contents:
-        #     - text: Theory as Narrative
-        #       file: theory-narrative.qmd
+        - section: "Commentary Papers"
+          contents:
+            - text: W1 Commentary
+              file: w1-commentary.qmd
   navbar:
     background: "#235440"
     search: false
