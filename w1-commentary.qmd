@@ -3,7 +3,7 @@ title: 'W1: Commentary #1'
 toc: false
 ---
 
-Due on Blackboard no later than Monday 5 January.
+**Due on Blackboard no later than Monday 5 January**
 
 Write a critical response of approximately 1,000 words (4 pages, double-spaced), responding to any of the course readings assigned this week.
 
@@ -17,10 +17,10 @@ Be sure to avoid purely speculative statements about "the future of X" or whatev
 
 Some possible starting points:
 
-- Which of these readings, or sections of them, did you find most intriguing, and why?
-- Did any of them connect with your own experience using interactive media, and if so how?
-- Did you try playing any of the games like [*Zork*](https://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fzdungeon.z5), which are available online via a web browser?
-- Or one of the more recent apps for mobile devices like [*Frotz*]?
-- Have you tried watching/playing [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)? If so, what did you make of it? 
-- What do you make of the Turing Test as a model for artificial intelligence, as well as the critique of it?
-- Did you try the web port of [ELIZA](https://psych.fullerton.edu/mbirnbaum/psych101/eliza.htm), the therapist chatbot described by Sherry Turkle? 
+-   Which of these readings, or sections of them, did you find most intriguing, and why?
+-   Did any of them connect with your own experience using interactive media, and if so how?
+-   Did you try playing any of the games like [*Zork*](https://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fzdungeon.z5), which are available online via a web browser?
+-   Or one of the more recent apps for mobile devices like \[*Frotz*\]?
+-   Have you tried watching/playing [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)? If so, what did you make of it? 
+-   What do you make of the Turing Test as a model for artificial intelligence, as well as the critique of it?
+-   Did you try the web port of [ELIZA](https://psych.fullerton.edu/mbirnbaum/psych101/eliza.htm), the therapist chatbot described by Sherry Turkle? 
