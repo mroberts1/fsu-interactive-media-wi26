@@ -16,6 +16,8 @@ website:
           contents:
               - text: W1 Interactive Fictions
                 file: w1-interactive-fictions.qmd
+              - text: W2 Lurking
+                file: w2-lurking.qmd
         - section: "Commentary Papers"
           contents:
             - text: W1 Commentary
