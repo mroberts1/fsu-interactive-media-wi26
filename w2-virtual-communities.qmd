@@ -1,19 +1,18 @@
 ---
-title: 'W2: Lost Worlds'
+title: 'W2: Virtual Communities'
 subtitle: 'The internet we could have had'
 toc: false
 ---
 
 ::: {.column-margin}
 
-<br>
+<br><br><br><br><br><br><br><br>
 
 [![](img/mcneil-lurking-cover.jpeg){.lightbox}](https://us.macmillan.com/books/9781250785756/lurking)
 
+[Introduction](pdf/Lurking_ Intro.pdf)\
+[Anonymity](pdf/Lurking_ Chapter2.pdf)
 <br>
-
-[Introduction](https://canvas.emerson.edu/courses/2079558/files/172506575?wrap=1 "Lurking_ Intro.pdf")\
-[Anonymity](https://canvas.emerson.edu/courses/2079558/files/172506597?wrap=1 "Lurking_ Chapter2.pdf")
 
 :::
 
