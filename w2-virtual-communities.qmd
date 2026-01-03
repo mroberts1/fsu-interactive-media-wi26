@@ -8,11 +8,11 @@ toc: false
 
 <br><br><br><br><br><br><br><br>
 
-[![](img/mcneil-lurking-cover.jpeg){.lightbox}](https://us.macmillan.com/books/9781250785756/lurking)
+[![](img/mcneil-lurking-cover.jpeg){.lightbox width=200}](https://us.macmillan.com/books/9781250785756/lurking)
+<br><br>
 
 [Introduction](pdf/Lurking_ Intro.pdf)\
 [Anonymity](pdf/Lurking_ Chapter2.pdf)
-<br>
 
 :::
 
