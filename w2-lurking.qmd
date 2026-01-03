@@ -1,18 +1,19 @@
 ---
-title: 'W2: Lurking'
-subtitle: 'What we do in the shadows'
+title: 'W2: Lost Worlds'
+subtitle: 'The internet we could have had'
 toc: false
 ---
 
 ::: {.column-margin}
 
-<br><br><br><br><br><br><br><br>
-[![](img/mcneil-lurking-cover.jpeg){.lightbox}](https://us.macmillan.com/books/9781250785756/lurking)
-<br><br>
-Joanne McNeil, [*Lurking: How A Person Became A User*](https://us.macmillan.com/books/9781250785756/lurking):
+<br>
 
--   [Introduction](https://canvas.emerson.edu/courses/2079558/files/172506575?wrap=1 "Lurking_ Intro.pdf")
--   [Chapter 2](https://canvas.emerson.edu/courses/2079558/files/172506597?wrap=1 "Lurking_ Chapter2.pdf")
+[![](img/mcneil-lurking-cover.jpeg){.lightbox}](https://us.macmillan.com/books/9781250785756/lurking)
+
+<br>
+
+[Introduction](https://canvas.emerson.edu/courses/2079558/files/172506575?wrap=1 "Lurking_ Intro.pdf")\
+[Anonymity](https://canvas.emerson.edu/courses/2079558/files/172506597?wrap=1 "Lurking_ Chapter2.pdf")
 
 :::
 
@@ -21,6 +22,13 @@ Joanne McNeil, [*Lurking: How A Person Became A User*](https://us.macmillan.com/
 You've (probably) heard of LARPing. But have you heard of lurking? Like that other obsolete 1990s term, **cyberspace**, the term **lurking** seems to have fallen into disuse these days, even though as a practice it's still very much around. I don't mind admitting, though, that I more or less decided to assign Joanne McNeill's recent book *Lurking* almost on the strength of its title alone, because that one word alone told me everything I needed to know about its content. As it happens, Joanne and I belong to almost the same internet generation---the one that discovered the internet (then spelt with an upper-case 'I,' as was the usage then) and the web (then known by the quaintly adorable "World Wide Web," still reproduced in the www of URL addresses) in the early 1990s, through *WIRED* magazine and *Mondo 2000*, when we were talking about **cyberspace** and what Howard Rheingold had named **virtual communities**, when the term **browser** was new. Before Chrome, Safari, and Firefox, I remember using Mosaic and Netscape. I began coding websites for my courses in raw HTML, before Javascript and CSS existed. While they look hokey by today's standards, some of those websites are [still around](http://web.mit.edu/21l.015/spring97/index.html) a quarter of a century later; I wonder how many of today's Javascript-based Wordpress blogs will still be accessible twenty five years from now in 2047.
 
 These were the days of Bulletin Board Systems (BBSs) and 12-baud dialup connections. We used Gopher for search, a text-based browser called Lynx (get it?), and telnet to remote-login to servers. We would hang out in "text-based virtual reality systems" called "MUDs" (an acronym for Multi-User Dungeons or Dimensions, a kind of online counterpart to Dungeons & Dragons board game), or more socially oriented MOOs (MUD, Object-Oriented---an acronym containing an acronym). I'm familiar with most of the references that McNeill discusses in her second chapter ("Anonymity"), from Stacy Horn's ECHO community to the article by [Julian Dibbell](http://www.juliandibbell.com/articles/a-rape-in-cyberspace/), the first---but certainly not the last---account of online sexual harrasment. I read Dibbell's article when it was published in the *Village Voice*, and invited him to participate in a forum I organized called "Democracy in Cyberspace" (I'm planning to put the transcript back up online soon, if possible before the end of the course).
+
+::: {.column-margin}
+
+{{< video https://youtu.be/Flo9kn_nhbg >}}
+
+<small>What happened to Gopher? The internet we lost</small>
+::::
 
 I decided to assign *Lurking* because for all you millennials and Gen-Zers too young to remember it, I wanted you to read about the history of social media **before** social media (at least in chapter 2; as you'll have seen, chapter 4 covers the more recent and more familiar territory of the iPhone, Twitter, Instagram, and Tumblr)---to give you an idea of what internet culture looked like in the 1990s, and how it anticipated in many ways the social media world of today. In fact, a surprising amount of that culture has persisted right up to the present, even though it's been completely eclipsed by the rise of mobile-based social media platforms over the past fifteen years. There continues to be, for example, a thriving community around the text-based [Gopher](http://gopher.floodgap.com/overbite/) protocol; there's even an iOS Gopher app. So-called "modern" browsers like Chrome don't support it, although you can get extensions enabling you to access it.
 
