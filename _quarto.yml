@@ -18,6 +18,8 @@ website:
                 file: w1-interactive-fictions.qmd
               - text: W2 Virtual Communities
                 file: w2-virtual-communities.qmd
+              - text: W2 Habitats
+                file: w2-habitats.qmd
         - section: "Commentary Papers"
           contents:
             - text: W1 Commentary
