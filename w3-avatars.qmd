@@ -1,0 +1,6 @@
+---
+title: 'W2: Avatars'
+subtitle: 'Six Propositions'
+toc: false
+---
+

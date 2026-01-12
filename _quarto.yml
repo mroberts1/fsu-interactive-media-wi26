@@ -20,6 +20,8 @@ website:
                 file: w2-virtual-communities.qmd
               - text: W2 Habitats
                 file: w2-habitats.qmd
+              - text: W3 Avatars
+                file: w3-avatars.qmd
         - section: "Commentary Papers"
           contents:
             - text: W1 Commentary
