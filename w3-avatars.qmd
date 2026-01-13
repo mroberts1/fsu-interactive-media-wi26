@@ -4,7 +4,7 @@ subtitle: 'Six Propositions'
 toc: false
 ---
 
-![](img/image14.jpg)
+[![](img/image14.jpg)](https://www.nytimes.com/slideshow/2007/06/15/magazine/20070617_AVATAR_SLIDESHOW_index.html)
 
 ::: {.column-margin}
 
@@ -52,16 +52,16 @@ II\
 While an avatar’s graphic face or body may resemble that of its human counterpart, there is no particular reason why this should be so; indeed, avatars typically take the form of imaginary (often idealised) representations drawn from fantasy, encouraging roleplay in digital worlds rather than performing as the ‘real’ self, as well as the adoption of multiple personas. An avatar may even be selected from a different species (animal spirits, otherkin) or character type (e.g. pokemon character, robot, zombie).
 
 III\
-The line between avatars and the ‘real’ self is blurring: for example, embodied subjects (‘real people’) who participate extensively in massively-multiplayer online role-playing games (MMORPGs) often perform in character at real-world gaming events, mimicking the appearance and behaviour of their digital persona and performing scenarios from digital worlds, (LARPing or live-action roleplay) – a practice which originated in the hobby of historical re-enactment (e.g. WW1). See the documentary Monster Camp.
+The line between avatars and the ‘real’ self is blurring: for example, embodied subjects (‘real people’) who participate extensively in massively-multiplayer online role-playing games (MMORPGs) often perform in character at real-world gaming events, mimicking the appearance and behaviour of their digital persona and performing scenarios from digital worlds, (LARPing or live-action roleplay) – a practice which originated in the hobby of historical re-enactment (e.g. WW1). See the documentary [*Monster Camp*](https://www.justwatch.com/us/movie/monster-camp) (2007).
 
 IV\
-Avatars can be remotely controlled in real time via hardware (mouse, joystick, keyboard) or software (on-screen) interfaces. They therefore offer varying degrees of disembodied (a.k.a. ‘virtual’) communication, agency, and experience with other remote subjects, as well as the ability to manipulate objects, perform tasks, etc. in the digital world itself. Avatars are thus closer to puppets than characters, which, even when animated, are ‘pre-programmed’ and are not controlled in real time.
+Avatars can be remotely controlled in real time via hardware (mouse, joystick, keyboard) or software (on-screen) interfaces. They therefore offer varying degrees of disembodied (a.k.a. "virtual") communication, agency, and experience with other remote subjects, as well as the ability to manipulate objects, perform tasks, etc. in the digital world itself. Avatars are thus closer to puppets than characters, which, even when animated, are "pre-programmed" and are not controlled in real time.
 
 V\
-While avatars are usually controlled by human agents, they can also be controlled by artificial intelligence systems which simulate human agents; in such cases they are closer to bots. Such interfaces more commonly remain voice-based rather than image-based, however, from automated telephone systems to science-fiction cinema (2001: A Space Odyssey; Simone; Her)
+While avatars are usually controlled by human agents, they can also be controlled by artificial intelligence systems which simulate human agents; in such cases they are closer to bots. Such interfaces more commonly remain voice-based rather than image-based, however, from automated telephone systems to science-fiction cinema (*2001: A Space Odyssey*; *Simone*; *Her*)
 
 VI\
-Avatars and animated characters are becoming increasingly hybridised, to the point of becoming almost indistinguishable: it is increasingly common for animated characters to exist autonomously, that is, in ‘real-world’ contexts independently of any fictional narrative or digital world. Examples: digital pop stars, ‘synthespians’, newsreaders. 
+Avatars and animated characters are becoming increasingly hybridized, to the point of becoming almost indistinguishable: it is increasingly common for animated characters to exist autonomously, that is, in "real-world" contexts independently of any fictional narrative or digital world. Examples: digital pop stars, "synthespians", [newsreaders](https://youtu.be/ek-g5A0YTkw). 
 
 ## Note
 I wrote these six propositions in a digital media course about seven years ago. They are a pretty accurate representation of my thinking about avatars at that time. I'm reproducing them here exactly as they were originally written.
