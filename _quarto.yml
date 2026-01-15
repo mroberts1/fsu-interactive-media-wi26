@@ -22,6 +22,8 @@ website:
                 file: w2-habitats.qmd
               - text: W3 Avatars
                 file: w3-avatars.qmd
+              - text: W3 Dark Forest
+                file: w3-dark-forest.qmd
         - section: "Commentary Papers"
           contents:
             - text: W1 Commentary
